@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you have a great opportunity or simply want to discuss with me about my experiences or projects, please feel free to contact me through <a class="highlight-link" href = "ella.cheny@gmail.com">email</a> or DM me through <a class="highlight-link" href="https://www.linkedin.com/in/yingqi-chen-a96138134/">LinkedIn</a>. I appreciate all of you who have come to visit my personal website! Have a wonderful day:) 
+contact_description: If you have a great opportunity or simply want to discuss with me about my experiences or projects, please feel free to contact me through <a class="highlight-link" href = "ella.cheny@gmail.com">email</a> or DM me through <a class="highlight-link" href="https://www.linkedin.com/in/yingqi-chen-a96138134/">LinkedIn</a>. <br>I appreciate all of you who have come to visit my personal website! Have a wonderful day:) 
 
 # GITHUB-METADATA
 # Set this to your forked repository
