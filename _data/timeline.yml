@@ -38,7 +38,6 @@
     - tag: Prolog
   timeline-side: right
 
-
 - title: BrainStation
   title-url: https://brainstation.io/course/online/remote-web-development-bootcamp
   date: Sep 2022 - May 2023
@@ -64,7 +63,32 @@
     - tag: Jest
   timeline-side: left
 
+- title: Magna International Inc.
+  title-url: https://www.magna.com/
+  date: Aug 2019 - Jun 2020
+  subtitle: Electrical Engineering Co-op
+  coursework:
+    - tag: Assembled and soldered electronic components on circuit boards, contributing to the overall efficiency of the engineering team.
+    - tag: Designed and implemented an embedded control system with a user-friendly remote for the leadership team, resulting in improved ease-of-use and increased productivity.
+    - tag: Collaborated with the innovation team to run tests and validate the functionality of a radar system mounted on cars, ensuring accuracy and reliability.
+  tags:
+    - tag: Arduino
+    - tag: Soldering
+    - tag: Electric Circuit Design
+    - tag: Testing
+    - tag: Electric Kit Building
+  timeline-side: right
 
+- title: McMaster University
+  title-url: https://www.mcmaster.ca/
+  date: Sep 2016 - Apr 2021
+  subtitle: B.Eng Electrical Engineering & Co-op
+  coursework:
+    - tag: Graduated with a 3.9 GPA
+    - tag: Held consistent placement on the Deans’ Honor List throughout the entire undergraduate program
+    - tag: Awarded the Gupta Family International Scholarship in 2018 for outstanding academic performance
+  timeline-side: left
+  
 # - title: Super University
 #   title-url: https://example.com/
 #   date: 2017 - 2019
