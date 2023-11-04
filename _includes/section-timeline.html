@@ -21,7 +21,11 @@
             </div>
             <div style ="font-weight:bold; font-size:large; margin-top:1em;">{{event.subtitle}}</div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
-              {{event.description}}
+              <ul>
+                <li>
+                {{event.coursework.tag}}
+                </li>
+              </ul>
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
@@ -50,7 +54,11 @@
             </div>
             <div style ="font-weight:bold; font-size:large; margin-top:1em;">{{event.subtitle}}</div>
             <div class="desc neumorphism-card" data-aos="zoom-in-left">
-              {{event.description}}
+              <ul>
+                <li>
+                {{event.coursework.tag}}
+                </li>
+              </ul>
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
