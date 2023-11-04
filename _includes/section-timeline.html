@@ -45,11 +45,11 @@
                 </a>
               </span>
               <span class="time-wrapper" data-aos="zoom-in-left">
-                <span class="time neumorphism-card">{{event.date}}</span>
+                <span class="time neumorphism-card" style="font-size:smaller;">{{event.date}}</span>
               </span>
             </div>
+            <div style ="font-weight:bold; font-size:large; margin-top:1em;">{{event.subtitle}}</div>
             <div class="desc neumorphism-card" data-aos="zoom-in-left">
-              {{event.subtitle}}
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
