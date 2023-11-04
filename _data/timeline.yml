@@ -21,6 +21,14 @@
   title-url: https://academiccalendars.romcmaster.ca/preview_program.php?catoid=53&poid=26813
   date: Sep 2022 - Present
   subtitle: B.A.Sc. Computer Science 
+  coursework:
+    - tag: Data Structures and Algorithms 
+    - tag: Computer Architecture 
+    - tag: Objected Oriented Programming
+    - tag: Functional Programming 
+    - tag: Databases
+    - tag: Operating System
+    - tag: Linear and Continuous Optimization
   tags:
     - tag: C
     - tag: Java
@@ -29,6 +37,33 @@
     - tag: Haskell
     - tag: Prolog
   timeline-side: right
+
+
+- title: BrainStation
+  title-url: https://brainstation.io/course/online/remote-web-development-bootcamp
+  date: Sep 2022 - May 2023
+  subtitle: Web Development Diploma
+  coursework: 
+    - tag: Proficient in React, Vite, Express, CSS, HTML5, and databases like MySQL and NoSQL.
+    - tag: Extensive hands-on experience in web development utilizing industry-standard frameworks, languages, and tools. 
+  tags:
+    - tag: React
+    - tag: JavaScript
+    - tag: HTML5
+    - tag: npm
+    - tag: axios
+    - tag: CSS
+    - tag: Git/GitHub
+    - tag: Sass
+    - tag: Node.js
+    - tag: Express.js
+    - tag: MySQL
+    - tag: Jira
+    - tag: Postman
+    - tag: Chrome Dev Tool
+    - tag: Jest
+  timeline-side: left
+
 
 # - title: Super University
 #   title-url: https://example.com/
