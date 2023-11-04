@@ -59,9 +59,9 @@
     - tag: Chrome Dev Tool
     - tag: Jest
   timeline-side: left
-  # coursework:
-  #   - tag: Extensive hands-on experience in web development utilizing industry-standard frameworks, languages, and tools.  
+  # coursework: 
   #   - tag: Proficient in React, Vite, Express, CSS, HTML5, and databases like MySQL and NoSQL.
+  #   - tag: Extensive hands-on experience in web development utilizing industry-standard frameworks, languages, and tools. 
 
 # - title: Super University
 #   title-url: https://example.com/
