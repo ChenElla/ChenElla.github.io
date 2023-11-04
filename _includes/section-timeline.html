@@ -19,7 +19,9 @@
                 <span class="time neumorphism-card" style="font-size:smaller;margin-right:0.3rem;padding-bottom:0.5rem;">{{event.date}}</span>
               </span>
             </div>
-            <span data-aos="zoom-in-right" style ="font-weight:bold; font-size:large; margin-top:1em;background-color:#2B2D3B; padding:0.3rem 0.4rem; border-radius:10px;">{{event.subtitle}}</span>
+            <div  data-aos="zoom-in-right">
+              <span style ="font-weight:bold; font-size:large; margin-top:1em;background-color:#2B2D3B; padding:0.3rem 0.4rem; border-radius:10px;">{{event.subtitle}}</span>
+            </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               {% if event.coursework %}
                 <ul>
@@ -56,7 +58,9 @@
                 <span class="time neumorphism-card" style="font-size:smaller;margin-left:0.3rem;padding-bottom:0.5rem;">{{event.date}}</span>
               </span>
             </div>
-            <span data-aos="zoom-in-left" style ="font-weight:bold; font-size:large; margin-top:1em; background-color:#2B2D3B; padding:0.3rem 0.4rem; border-radius:10px;">{{event.subtitle}}</span>
+            <div data-aos="zoom-in-left">
+              <span style ="font-weight:bold; font-size:large; margin-top:1em; background-color:#2B2D3B; padding:0.3rem 0.4rem; border-radius:10px;">{{event.subtitle}}</span>
+            </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-left">
               {% if event.coursework %}
                 <ul>
