@@ -28,13 +28,7 @@
     - tag: SQL
     - tag: Haskell
     - tag: Prolog
-    - tag: Data Structures and Algorithms
-    - tag: Computer Architecture 
-    - tag: Objected Oriented Programming
-    - tag: Functional Programming
-    - tag: Databases
-    - tag: Operating System
-    - tag: Linear and Continuous Optimization
+  description: Data Structures and Algorithms; Computer Architecture; Objected Oriented Programming; Functional Programming; Databases; Operating System; Linear and Continuous Optimization
   timeline-side: right
 
 - title: BrainStation
