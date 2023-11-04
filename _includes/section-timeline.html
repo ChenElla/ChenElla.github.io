@@ -21,11 +21,15 @@
             </div>
             <div style ="font-weight:bold; font-size:large; margin-top:1em;background-color:#2B2D3B; padding:0.3rem 0.4rem; border-radius:10px;">{{event.subtitle}}</div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
+              {% if event.coursework %}
               <ul>
+                {% for tag in event.coursework %}
                 <li>
                 {{event.coursework.tag}}
                 </li>
+                {% endfor %}
               </ul>
+              {% endif %}
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
@@ -54,11 +58,15 @@
             </div>
             <div style ="font-weight:bold; font-size:large; margin-top:1em; background-color:#2B2D3B; padding:0.3rem 0.4rem; border-radius:10px;">{{event.subtitle}}</div>
             <div class="desc neumorphism-card" data-aos="zoom-in-left">
+              {% if event.coursework %}
               <ul>
+                {% for tag in event.coursework %}
                 <li>
                 {{event.coursework.tag}}
                 </li>
+                {% endfor %}
               </ul>
+              {% endif %}
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
