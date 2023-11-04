@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a results-driven software developer with a strong background in web development. Proficient in both front-end(React, JavaScript) and back-end(Express, Node.js, SQL) development, I take pride in leading teams to successfully deliver time-sensitive projects, showcasing my ability to collaborate effectively within diverse groups in school. My passion lies in leveraging technologies and tools to create innovative solutions that elevate user experiences and solve complex challenges. <br><br> I am actively pursuing exciting opportunities for both full-time positions and internships. Eager to take on fresh challenges that will propel my career forward, I am also open to the possibility of relocation.<br><br><span style="font-weight:bold;font-style:italic;">If you have any suitable opportunities, please feel free to contact me through email directly!</span>
+about_me_description: I am a results-driven software developer with a strong background in web development. Proficient in both front-end(React, JavaScript) and back-end(Express, Node.js, SQL) development, I take pride in leading teams to successfully deliver time-sensitive projects, showcasing my ability to collaborate effectively within diverse groups in school. My passion lies in leveraging technologies and tools to create innovative solutions that elevate user experiences and solve complex challenges. <br><br> I am actively pursuing exciting opportunities for both full-time positions and internships. Eager to take on fresh challenges that will propel my career forward, I am also open to the possibility of relocation.<br><br><span style="font-weight:bold;font-style:italic;">If you have any suitable opportunities, please feel free to contact me through <a class="highlight-link" href = "mailto:ella.cheny@gmail.com">Email</a> directly!</span>
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you have a great opportunity or simply want to discuss with me about my experiences or projects, please feel free to contact me through <a class="highlight-link" href = "ella.cheny@gmail.com">email</a> or DM me through <a class="highlight-link" href="https://www.linkedin.com/in/yingqi-chen-a96138134/">LinkedIn</a>. <br>I appreciate all of you who have come to visit my personal website! Have a wonderful day:) 
+contact_description: &nbsp; &nbsp; If you have a great opportunity or simply want to discuss with me about my experiences or projects, please feel free to contact me through <a class="highlight-link" href = "mailto:ella.cheny@gmail.com">Email</a> or DM me through <a class="highlight-link" href="https://www.linkedin.com/in/yingqi-chen-a96138134/">LinkedIn</a>. <br>I appreciate all of you who have come to visit my personal website! Have a wonderful day:) 
 
 # GITHUB-METADATA
 # Set this to your forked repository
