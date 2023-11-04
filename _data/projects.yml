@@ -16,6 +16,7 @@
 - name: Shopify Hub
   descr: "Shopify Hub is an extension of Shopify Community dedicated to building a connected community for new Shopify merchants. Our goal is to provide an interactive platform where entrepreneurs can collaborate, learn from each other, and foster their growth."
   demo: https://github.com/ChenElla/Shopifyhub
+  image: 'ShopifyHub.png'
   tags:
     - tag: Shopify 
     - tag: BrainStation 
@@ -27,6 +28,7 @@
 - name: Teyvat Commission Board
   descr: "TeCoBo - Teyvat Commission Board, a real-time matchmaking platform connecting players seeking assistance with experienced veterans in Teyvat. Discover custom multiplayer content tailored to your preferences for an enhanced gaming experience. Join the community and elevate your gameplay!"
   demo: https://github.com/ChenElla/teyvat-commission-board
+  image: 'TeyvatCommissionBoard.png'
   tags:
     - tag: Genshin Impact 
     - tag: BrainStation 
@@ -37,6 +39,7 @@
 - name: InStock
   descr: "A time-sensitive, responsive full-stack inventory management application for Fortune 500 clients."
   demo: https://github.com/ChenElla/well_group_5_inStock
+  image: 'InStock.png'
   tags:
     - tag: React
     - tag: Express
