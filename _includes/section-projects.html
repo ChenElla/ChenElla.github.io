@@ -4,7 +4,7 @@
   <div class="projects-wrapper">
     {% for project in site.data.projects %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
-        <div class="name-link-wrapper" style="background-image: url({{project.image}});">
+        <div class="name-link-wrapper" style="background-image: url({{project.image}});background-size:cover;">
           <h3>{{project.name}}</h3>
         </div>
         <p class="project-desc">{{project.descr}}</p>
