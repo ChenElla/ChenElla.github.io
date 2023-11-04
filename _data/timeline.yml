@@ -28,6 +28,7 @@
     - tag: SQL
     - tag: Haskell
     - tag: Prolog
+  timeline-side: right
   # coursework: 
   #   - tag: Data Structures and Algorithms 
   #   - tag: Computer Architecture 
@@ -36,7 +37,6 @@
   #   - tag: Databases
   #   - tag: Operating System
   #   - tag: Linear and Continuous Optimization
-  timeline-side: right
 
 - title: BrainStation
   title-url: https://brainstation.io/course/online/remote-web-development-bootcamp
@@ -58,10 +58,10 @@
     - tag: Postman
     - tag: Chrome Dev Tool
     - tag: Jest
+  timeline-side: left
   # coursework:
   #   - tag: Extensive hands-on experience in web development utilizing industry-standard frameworks, languages, and tools.  
   #   - tag: Proficient in React, Vite, Express, CSS, HTML5, and databases like MySQL and NoSQL.
-  timeline-side: left
 
 # - title: Super University
 #   title-url: https://example.com/
