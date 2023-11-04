@@ -3,8 +3,8 @@
   <div style="text-align:center;">&nbsp; &nbsp; Following projects showcase my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and some have live demos or slides in it. These projects showcase my ability to tackle complex problems, adeptly handle various technologies, and manage projects effectively.</div>  
   <div class="projects-wrapper">
     {% for project in site.data.projects %}
-      <div class="project neumorphism-card" data-aos="zoom-in-down" style="background-image: url({{project.image}});">
-        <div class="name-link-wrapper">
+      <div class="project neumorphism-card" data-aos="zoom-in-down">
+        <div class="name-link-wrapper" style="background-image: url({{project.image}});">
           <h3>{{project.name}}</h3>
         </div>
         <p class="project-desc">{{project.descr}}</p>
