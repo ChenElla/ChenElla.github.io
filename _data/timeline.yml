@@ -28,7 +28,14 @@
     - tag: SQL
     - tag: Haskell
     - tag: Prolog
-  description: Data Structures and Algorithms; Computer Architecture; Objected Oriented Programming; Functional Programming; Databases; Operating System; Linear and Continuous Optimization
+  coursework: 
+    - tag: Data Structures and Algorithms 
+    - tag: Computer Architecture 
+    - tag: Objected Oriented Programming
+    - tag: Functional Programming 
+    - tag: Databases
+    - tag: Operating System
+    - tag: Linear and Continuous Optimization
   timeline-side: right
 
 - title: BrainStation
@@ -51,6 +58,9 @@
     - tag: Postman
     - tag: Chrome Dev Tool
     - tag: Jest
+  coursework:
+    - tag: Extensive hands-on experience in web development utilizing industry-standard frameworks, languages, and tools.  
+    - tag: Proficient in React, Vite, Express, CSS, HTML5, and databases like MySQL and NoSQL.
   timeline-side: left
 
 # - title: Super University
